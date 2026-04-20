@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Nandani+Sinha;MERN+Stack+Developer;DSA+Learner;Building+Real+World+Projects" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-45f5b2b7-0e8c-4c0b-8f44-5b87b9eaf7f7.gif" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Nandani Sinha</h1>
 <h3 align="center">🚀 MERN Stack Developer | DSA Learner</h3>
