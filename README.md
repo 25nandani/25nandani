@@ -1,6 +1,6 @@
 <!-- 🌌 Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nandani%20Sinha&fontSize=40&fontColor=ffffff" />
+  <img src="https://svg-banners.vercel.app/api?type=rain&text1=Nandani%20Sinha&width=900&height=200" />
 </p>
 
 <!-- 👋 Intro -->
