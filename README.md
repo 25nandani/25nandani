@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects;Always+Learning" />
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -17,7 +16,6 @@
 - 🚀 Passionate about building real-world projects  
 - 🎯 Goal: Software Engineer @ Top Tech Company  
 
----
 
 ## ⚙️ Tech Stack
 
@@ -26,8 +24,6 @@
 <img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,nodejs,express,mongodb,mysql,html,css,git" />
 
 </div>
-
----
 
 ## 🚀 Projects
 
