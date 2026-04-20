@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**25nandani/25nandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# Hi, I'm Nandani 👋
+# Hi, I'm Nandani 👋
 
 💻 MERN Stack Developer  
 📚 Learning DSA & System Design  
@@ -36,11 +29,3 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/your-link
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
