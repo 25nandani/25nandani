@@ -1,11 +1,31 @@
+<!-- 🌌 Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744275-45f5b2b7-0e8c-4c0b-8f44-5b87b9eaf7f7.gif" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Nandani Sinha</h1>
-<h3 align="center">🚀 MERN Stack Developer | DSA Learner</h3>
 
+<!-- 👋 Intro -->
+<h1 align="center">Hi 👋, I'm <span style="color:#38BDF8;">Nandani Sinha</span></h1>
+
+<h3 align="center">
+  🚀 MERN Stack Developer &nbsp;|&nbsp; 💡 DSA Learner
+</h3>
+
+<!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Real+World+Projects;DSA+%7C+System+Design;Always+Learning" />
+</p>
+
+<!-- 🔗 Quick Links (NEW - makes it premium) -->
+<p align="center">
+  <a href="https://github.com/25nandani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/25nandanisinha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nandanisinha2504@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
