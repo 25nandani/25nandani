@@ -1,7 +1,7 @@
 <!-- 🌌 Banner -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rain&text1=Nandani%20Sinha&width=900&height=200" />
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<br><br>
+
 
 <!-- 👋 Intro -->
 <h1 align="center">Hi 👋, I'm <span style="color:#38BDF8;">Nandani Sinha</span></h1>
