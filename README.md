@@ -73,13 +73,16 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25nandani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=25nandani&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=25nandani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=25nandani&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25nandani&theme=tokyonight" width="98%" />
+</p>
 ---
 
 ## 🌐 Connect With Me
@@ -88,7 +91,7 @@
 <a href="https://www.linkedin.com/in/25nandanisinha/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:nandanisinha2504@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
