@@ -1,6 +1,6 @@
 <!-- 🌌 Banner -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="100%" align-item="center" height="300px">
-<br><br>
+- Coding in Peace
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
 <br><br>
 
 
