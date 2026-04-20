@@ -69,26 +69,19 @@
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25nandani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=25nandani&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=25nandani&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=25nandani&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25nandani&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25nandani&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25nandani&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=25nandani&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=25nandani&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </p>
 
 ## 🌐 Connect With Me
